@@ -810,7 +810,7 @@ a.thumbnail:hover {
 }
 .service-box.large .service-box_body { overflow:hidden; }
 .service-box.large .title {
-	margin:10px 0 13px;
+	margin:40px 0 13px;
 	font-size:31px;
 	line-height:33px;
 }
